@@ -1,0 +1,11 @@
+name,math_score,science_score,english_score,total_score,percentage,grade
+Alice,95,90,92,277,92.33333333333333,A
+Bob,78,85,80,243,81.0,B
+Charlie,88,70,75,233,77.66666666666667,C
+Diana,60,65,58,183,61.0,D
+Edward,45,55,50,150,50.0,F
+Fiona,99,97,93,289,96.33333333333333,A
+George,72,68,74,214,71.33333333333333,C
+Hannah,85,89,90,264,88.0,B
+Ian,90,88,86,264,88.0,B
+Jane,55,60,59,174,58.0,F

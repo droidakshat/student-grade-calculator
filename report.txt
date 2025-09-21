@@ -1,0 +1,12 @@
+Student Grade Report
+====================
+Alice: A (92.33%)
+Bob: B (81.00%)
+Charlie: C (77.67%)
+Diana: D (61.00%)
+Edward: F (50.00%)
+Fiona: A (96.33%)
+George: C (71.33%)
+Hannah: B (88.00%)
+Ian: B (88.00%)
+Jane: F (58.00%)
